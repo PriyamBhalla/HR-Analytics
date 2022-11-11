@@ -7,5 +7,6 @@ This Dashboard also helps us to know how many percentage of employees take sick 
 This Dashboard also helps us to know how many percentage of employees take leaves or prefer work from home in which day of the week
 The Dashboard is as follows:
 
-![image](https://user-images.githubusercontent.com/65599483/201305043-57820f88-9cf4-4beb-8409-a5c02484295a.png)
+![image](https://user-images.githubusercontent.com/65599483/201306876-5d4a9705-d675-4db4-a482-4ce7d87a3569.png)
+
 Here we can apply month wise filter and follow more carefully the insights.
